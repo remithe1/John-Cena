@@ -1,0 +1,28 @@
+body{
+    background-color:orange;
+    font-family: arial;
+    font-size: 1.25rem;
+    color:saddlebrown
+}
+a:link{
+    color:indigo
+}
+a:visited{
+    color: aqua
+}
+a:hover{
+    color:darkblue
+}
+.profilePic{
+    border-radius: 50%;
+    height: 350px;
+    width:350px;
+}
+.centerTable{
+    margin-left:auto;
+    margin-right: auto;
+}
+.textCenter{
+    text-align: right;
+}
+
